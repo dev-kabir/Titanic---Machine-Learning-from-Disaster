@@ -1,2 +1,3 @@
 # Titanic---Machine-Learning-from-Disaster
-Predict survival on the Titanic
+Predicts which passengers survived the Titanic shipwreck using a machine learning model.
+
